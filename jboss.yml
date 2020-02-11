@@ -1,4 +1,4 @@
-- hosts: 35.171.150.230
+- hosts: All
   gather_facts: true
   remote_user: ubuntu
   become: True
