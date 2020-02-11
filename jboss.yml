@@ -1,4 +1,4 @@
-- hosts: localhost
+- hosts: All
   gather_facts: true
   remote_user: ubuntu
   become: True
