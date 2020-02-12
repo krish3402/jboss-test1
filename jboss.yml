@@ -1,4 +1,4 @@
-- hosts: webservers
+- hosts: jboss
   gather_facts: true
   remote_user: ubuntu
   become: True
