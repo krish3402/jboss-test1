@@ -7,7 +7,7 @@
     NEXUS: http://3.86.93.47:8080/nexus-latest/service/local/repositories/releases/content
     ARTIFACTORTY: sparkjava-hello-world/sparkjava-hello-world
     NODE1: sparkjava-hello-world
-    VERSION: 1.0
+    VERSION: 2.0
 
   tasks:
       - name: nodes stop all
